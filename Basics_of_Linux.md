@@ -6,7 +6,7 @@ Linux is an operating system - like Windows, macOS, iOS or android. Operating sy
 
 
 
-The Linux operating system started with the Unix operating system's release in 1970 by Ken Thompson and Dennis Ritchie. They both worked for AT\&T at that time. The Berkeley Software Distribution (BSD) was released in 1977. The development of BSD was limited due to contain of the Unix code owned by AT\&T. 
+The Linux operating system started with the Unix operating system's release in 1970 by Ken Thompson and Dennis Ritchie. They both worked for AT\&T at that time. The Berkeley Software Distribution (BSD) was released in 1977. The development of BSD was limited due to contain of the Unix code owned by AT\&T.
 
 
 
@@ -128,7 +128,7 @@ The main differences between Linux distributions are the included packages, the 
 
 
 
-## 2.1. Debian
+## Debian
 
 
 
@@ -145,4 +145,32 @@ However, it has had some vulnerabilities, but the development community has quic
 
 
 Debian is a versatile and reliable Linux distribution, widely used for a range of purposes. Its stability, reliability and commitment to security make it an attractive choice for various use cases, including cybersecurity.
+
+
+
+# 3\. Shell
+
+
+
+A Linux terminal (shell) or command line, provides a text-based I/O interface between the users and the kernel for a computer system. Typical is alco the term "console", but it refers to a screen in text mode rather than window. In the terminal window, commands can be executed to control the system.
+
+
+
+## Terminal emulators
+
+
+
+Terminal emulation is software that emulates the function of a terminal. It allows the use of text-based programs within a GUI. There are also so called command-line interfaces (CLIs) that run additional terminals in one terminal.
+
+
+
+## Shell
+
+
+
+The most commonly used shell in Linux is Bourne-Again Shell (BASH), and is part of the GNU project. The shell gives us many more possibilities to interact with programs and processes to get information faster. Besides, many processes can be easily automated with scripts that make manual work much easier.
+
+
+
+Besides Bash, there also exist other shells like Tcsh/Csh, Ksh, Zsh, Fish shell and others.
 
